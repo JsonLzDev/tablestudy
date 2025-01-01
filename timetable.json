@@ -24,9 +24,16 @@
         {
             "day": "Wednesday",
             "period": 1,
-            "start_time": "23:33",
+            "start_time": "23:35",
+            "end_time": "23:40",
+            "subject": "ภาษาไทย"
+        },
+        {
+            "day": "Wednesday",
+            "period": 2,
+            "start_time": "23:36",
             "end_time": "24:00",
-            "subject": "Physical Education"
+            "subject": "ภาษาอังก"
         }
     ]
 }
