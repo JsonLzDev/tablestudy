@@ -1,306 +1,32 @@
 {
-  "Schedule": [
-  {
-      "Day": "Monday",
-      "Classes": [
+    "schedule": [
         {
-          "Start": "08.30",
-          "End": "09.20",
-          "SubjectCode": "ค31202",
-          "Teacher": "ศริยา",
-          "Room": "748"
+            "day": "Monday",
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Mathematics"
         },
         {
-          "Start": "09.20",
-          "End": "10.10",
-          "SubjectCode": "ค31202",
-          "Teacher": "ศริยา",
-          "Room": "748"
+            "day": "Monday",
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Science"
         },
         {
-          "Start": "10.20",
-          "End": "11.10",
-          "SubjectCode": "ว31222",
-          "Teacher": "พัชณีย์",
-          "Room": "748"
+            "day": "Tuesday",
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "9:00",
+            "subject": "History"
         },
         {
-          "Start": "11.10",
-          "End": "12.00",
-          "SubjectCode": "อ31102",
-          "Teacher": "ภัทรา",
-          "Room": "748"
-        },
-        {
-          "Start": "12.00",
-          "End": "13.00",
-          "Activity": "Lunch Break"
-        },
-        {
-          "Start": "13.00",
-          "End": "13.50",
-          "SubjectCode": "ว31202",
-          "Teacher": "อรนุช",
-          "Room": "748"
-        },
-        {
-          "Start": "13.50",
-          "End": "14.40",
-          "SubjectCode": "ว31202",
-          "Teacher": "อรนุช",
-          "Room": "748"
-        },
-        {
-          "Start": "14.40",
-          "End": "15.30",
-          "SubjectCode": "ว31083",
-          "Teacher": "ธิติภัทร",
-          "Room": "C724"
-        },
-        {
-          "Start": "15.30",
-          "End": "16.20",
-          "SubjectCode": "ว31083",
-          "Teacher": "ธิติภัทร",
-          "Room": "C724"
+            "day": "Tuesday",
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Physical Education"
         }
-      ]
-    },
-    {
-      "Day": "Tuesday",
-      "Classes": [
-        {
-          "Start": "08.30",
-          "End": "09.20",
-          "SubjectCode": "อ31202",
-          "Teacher": "Christopher",
-          "Room": "235"
-        },
-        {
-          "Start": "09.20",
-          "End": "10.10",
-          "SubjectCode": "ว31104",
-          "Teacher": "ศศิธร",
-          "Room": "C724"
-        },
-        {
-          "Start": "10.20",
-          "End": "11.10",
-          "SubjectCode": "อ31264",
-          "Teacher": "ครูอัตราจ้าง",
-          "Room": "748"
-        },
-        {
-          "Start": "11.10",
-          "End": "12.00",
-          "SubjectCode": "อ31264",
-          "Teacher": "ครูอัตราจ้าง",
-          "Room": "748"
-        },
-        {
-          "Start": "12.00",
-          "End": "13.00",
-          "Activity": "Lunch Break"
-        },
-        {
-          "Start": "13.00",
-          "End": "13.50",
-          "SubjectCode": "ส31102",
-          "Teacher": "พิศพิศุทธ์",
-          "Room": "748"
-        },
-        {
-          "Start": "13.50",
-          "End": "14.40",
-          "SubjectCode": "อ31102",
-          "Teacher": "ภัทรา",
-          "Room": "748"
-        },
-        {
-          "Start": "14.40",
-          "End": "15.30",
-          "SubjectCode": "ท31102",
-          "Teacher": "บัวสวรรค์",
-          "Room": "748"
-        }
-      ]
-    },
-    {
-		
-      "Day": "Wednesday",
-      "Classes": [
-        {
-          "Start": "08.30",
-          "End": "09.20",
-          "SubjectCode": "ว31222",
-          "Teacher": "พัชณีย์",
-          "Room": "748"
-        },
-        {
-          "Start": "09.20",
-          "End": "10.10",
-          "SubjectCode": "ว31222",
-          "Teacher": "พัชณีย์",
-          "Room": "748"
-        },
-        {
-          "Start": "10.20",
-          "End": "11.10",
-          "SubjectCode": "ค31102",
-          "Teacher": "ศริยา",
-          "Room": "748"
-        },
-        {
-          "Start": "11.10",
-          "End": "12.00",
-          "SubjectCode": "ค31102",
-          "Teacher": "ศริยา",
-          "Room": "748"
-        },
-        {
-          "Start": "12.00",
-          "End": "13.00",
-          "Activity": "Lunch Break"
-        },
-        {
-          "Start": "13.00",
-          "End": "13.50",
-          "SubjectCode": "ว31242",
-          "Teacher": "ศิรินันท์",
-          "Room": "748"
-        },
-        {
-          "Start": "13.50",
-          "End": "14.40",
-          "SubjectCode": "ส31102",
-          "Teacher": "พิศพิศุทธ์",
-          "Room": "748"
-        },
-        {
-          "Start": "14.40",
-          "End": "15.30",
-          "Activity": "Club Activities"
-        },
-        {
-          "Start": "15.30",
-          "End": "16.20",
-          "SubjectCode": "ก31907",
-          "Teacher": "สุกัญญา",
-          "Room": "748"
-        }
-      ]
-    },
-    {
-      "Day": "Thursday",
-      "Classes": [
-        {
-          "Start": "08.30",
-          "End": "09.20",
-          "SubjectCode": "ว31242",
-          "Teacher": "ศิรินันท์",
-          "Room": "748"
-        },
-        {
-          "Start": "09.20",
-          "End": "10.10",
-          "SubjectCode": "ว31242",
-          "Teacher": "ศิรินันท์",
-          "Room": "748"
-        },
-        {
-          "Start": "10.20",
-          "End": "11.10",
-          "SubjectCode": "ว31202",
-          "Teacher": "อรนุช",
-          "Room": "748"
-        },
-        {
-          "Start": "11.10",
-          "End": "12.00",
-          "SubjectCode": "ว31202",
-          "Teacher": "อรนุช",
-          "Room": "748"
-        },
-        {
-          "Start": "12.00",
-          "End": "13.00",
-          "Activity": "Lunch Break"
-        },
-        {
-          "Start": "13.00",
-          "End": "13.50",
-          "Activity": "Club Activities"
-        },
-        {
-          "Start": "13.50",
-          "End": "14.40",
-          "SubjectCode": "ว31084",
-          "Teacher": "ธิติภัทร",
-          "Room": "748"
-        }
-      ]
-    },
-    {
-      "Day": "Friday",
-      "Classes": [
-        {
-          "Start": "08.30",
-          "End": "09.20",
-          "SubjectCode": "ค31202",
-          "Teacher": "ศริยา",
-          "Room": "748"
-        },
-        {
-          "Start": "09.20",
-          "End": "10.10",
-          "SubjectCode": "ท31102",
-          "Teacher": "บัวสวรรค์",
-          "Room": "748"
-        },
-        {
-          "Start": "10.20",
-          "End": "11.10",
-          "SubjectCode": "พ31102",
-          "Teacher": "ปวิชญา",
-          "Room": "748"
-        },
-        {
-          "Start": "11.10",
-          "End": "12.00",
-          "SubjectCode": "ศ31102",
-          "Teacher": "พรชัย",
-          "Room": "331"
-        },
-        {
-          "Start": "12.00",
-          "End": "13.00",
-          "Activity": "Lunch Break"
-        },
-        {
-          "Start": "13.00",
-          "End": "13.50",
-          "SubjectCode": "อ31102",
-          "Teacher": "ภัทรา",
-          "Room": "748"
-        },
-        {
-          "Start": "13.50",
-          "End": "14.40",
-          "SubjectCode": "ว31103",
-          "Teacher": "อมรฤทธิ์",
-          "Room": "748"
-        },
-        {
-          "Start": "14.40",
-          "End": "15.30",
-          "Activity": "ป้องกันทุจริต H.R."
-        },
-        {
-          "Start": "15.30",
-          "End": "16.20",
-          "Activity": "กิจกรรมสาธารณะประโยชน์"
-        }
-      ]
-    }
-  ]
+    ]
 }
